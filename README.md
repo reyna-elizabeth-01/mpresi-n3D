@@ -23,6 +23,7 @@ Soy docente en Educación Media con especialidad en Desarrollo de Software. Me a
 **Recursos del Proyecto:**
 * [Presentación: Perfil Profesional y Proyectos](https://docs.google.com/presentation/d/1W3G0VYWKR71vrTv_uctVmLBMCgbQxRSKBFkiupGTa9w)
 * [Presentación: Impresión 3D](https://docs.google.com/presentation/d/1bZorgh5_HhjwShq_7o7QNaiQ_BcCrguE)
+* https://www.linkedin.com/feed/update/urn:li:share:7451681082007117824/
 
 
 
