@@ -21,8 +21,9 @@ Soy docente en Educación Media con especialidad en Desarrollo de Software. Me a
 **Descripción:** Flujo de trabajo profesional de manufactura aditiva: desde el bocetaje y modelado 3D en CAD, hasta el laminado (Slicing) con **Cura** y la impresión final en equipos **Ender-5 Pro**.
 
 **Recursos del Proyecto:**
-* [Presentación: Impresión 3D](https://docs.google.com/presentation/d/1bZorgh5_HhjwShq_7o7QNaiQ_BcCrguE)
 * [Presentación: Perfil Profesional y Proyectos](https://docs.google.com/presentation/d/1W3G0VYWKR71vrTv_uctVmLBMCgbQxRSKBFkiupGTa9w)
+* [Presentación: Impresión 3D](https://docs.google.com/presentation/d/1bZorgh5_HhjwShq_7o7QNaiQ_BcCrguE)
+
 
 
 ## Contacto 📧
