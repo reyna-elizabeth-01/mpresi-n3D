@@ -23,7 +23,7 @@ Soy docente en Educación Media con especialidad en Desarrollo de Software. Me a
 **Recursos del Proyecto:**
 * [Presentación: Impresión 3D](https://docs.google.com/presentation/d/1bZorgh5_HhjwShq_7o7QNaiQ_BcCrguE)
 * [Presentación: Perfil Profesional y Proyectos](https://docs.google.com/presentation/d/1W3G0VYWKR71vrTv_uctVmLBMCgbQxRSKBFkiupGTa9w)
-* https://docs.google.com/presentation/d/1W3G0VYWKR71vrTv_uctVmLBMCgbQxRSKBFkiupGTa9w/edit?slide=id.p1#slide=id.p1
+
 
 ## Contacto 📧
 * **Correo electrónico:** [reyna.elizabeth.cruz@clases.edu.sv](mailto:reyna.elizabeth.cruz@clases.edu.sv)
